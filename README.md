@@ -15,11 +15,16 @@ pip install -U PyObjC
 
 ## Usage
 
-Open Jupyter and find the directory of the .ipynb file.  If you get an error with [chromedriver](https://chromedriver.chromium.org/) download correct version and replace it in the directory
+Open Jupyter and find the directory of the .ipynb file.
 
 ```bash
 jupyter notebook
 ```
+
+Change vaccinespotter URL with your desired area and run!  If you get an error with [chromedriver](https://chromedriver.chromium.org/) download correct version and replace it in the directory
+
+
+
 
 
 
