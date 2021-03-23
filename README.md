@@ -21,7 +21,7 @@ Open Jupyter and find the directory of the .ipynb file.
 jupyter notebook
 ```
 
-Change vaccinespotter URL with your desired area and run!  If you get an error with [chromedriver](https://chromedriver.chromium.org/) download correct version and replace it in the directory
+Change [Vaccine Spotter URL](vaccinespotter.org) with your desired area and run!  If you get an error with [chromedriver](https://chromedriver.chromium.org/) download correct version and replace it in the directory
 
 
 
