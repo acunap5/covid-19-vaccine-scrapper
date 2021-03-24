@@ -1,5 +1,5 @@
 # covid-19-vaccine-scrapper
-Scrapes vaccinespotter.org using headless selenium and alarms you when a vaccine is found in your area
+Scrapes vaccinespotter.org using headless selenium and alarms you when a vaccine is found in your area.  Quit refreshing endlessly, let python do it for you in the background!
 
 ## Installation
 Make sure to get [jupyter notebook](https://jupyter.org/install), easiest through [andaconda](https://docs.anaconda.com/anaconda/install/)
